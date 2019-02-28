@@ -1,5 +1,5 @@
 #### CS 120 - Spring 2019
-# Midterm Review - Dynamic Memory
+# Lab 5 - Dynamic Memory
 ## Due Date: In Lab
 
 ### Provided Files
